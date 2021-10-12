@@ -1,10 +1,8 @@
-### Hi there 👋
-
 <!--
 **aauugguussttiinn/aauugguussttiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi, I'm Augustin
+# Hi, I'm Augustin 👋
 I started to learn web development in 2021. I am currently looking for web developement missions as a freelance developer.
 I am skilful mainly in Rails and React but I'd be very pleased to learn any other language or framework to meet your expectations !
 
