@@ -2,6 +2,7 @@
 
 <!--
 **aauugguussttiinn/aauugguussttiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 # Hi, I'm Augustin
 ## I started to learn web development in 2021. I am currently looking for web developement missions as a freelance developer.
@@ -17,4 +18,3 @@
 
 - 📫 How to reach me: ...
 [![Foo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/augustinberne/)
--->
