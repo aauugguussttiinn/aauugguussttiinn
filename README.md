@@ -15,4 +15,4 @@ I am skilful mainly in **Rails** and **React** but I'd be very pleased to learn 
 - ⚡ Fun fact: I can speak very well **french**, **english**, **spanish** and I can also speak a bit of **portuguese** !
 
 - 📫 How to reach me: <br/>
-[![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg =100x20)](https://www.linkedin.com/in/augustinberne/)
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg){:height="36px" width="36px"}](https://www.linkedin.com/in/augustinberne/)
