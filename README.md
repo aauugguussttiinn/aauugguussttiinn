@@ -5,8 +5,8 @@
 -->
 
 # Hi, I'm Augustin
-## I started to learn web development in 2021. I am currently looking for web developement missions as a freelance developer.
-## I am skilful mainly in Rails and React but I'd be very pleased to learn any other language or framework to meet your expectations !
+I started to learn web development in 2021. I am currently looking for web developement missions as a freelance developer.
+I am skilful mainly in Rails and React but I'd be very pleased to learn any other language or framework to meet your expectations !
 
 
 ## Know more about me !
@@ -17,4 +17,4 @@
 - ⚡ Fun fact: I can speak very well **french**, **english**, **spanish** and I can also speak a bit of **portuguese** !
 
 - 📫 How to reach me: ...
-[![Foo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/augustinberne/)
+[![Foo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/augustinberne/){ width=60%,height:30px }
