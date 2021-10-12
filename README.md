@@ -9,7 +9,7 @@ I am skilful mainly in **Rails** and **React** but I'd be very pleased to learn 
 
 ## Know more about me !
 
-- 🔭 I’m currently working on *four web development projects in Rails and React*
+- 🔭 I’m currently working on **four web development projects in Rails and React**
 - 🌱 I’m currently learning **React Native, React**
 - 👯 I’m looking to collaborate on whatever project you may ask but I have a slice preference for Javascript related stuff <3
 - ⚡ Fun fact: I can speak very well **french**, **english**, **spanish** and I can also speak a bit of **portuguese** !
