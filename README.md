@@ -16,4 +16,3 @@ I am skilful mainly in **Rails** and **React** but I'd be very pleased to learn 
 
 - 📫 How to reach me: <br/>
 [![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg =100x20)](https://www.linkedin.com/in/augustinberne/)
-![linkedin](https://user-images.githubusercontent.com/82024023/136982150-55fc1852-32ba-494e-acb7-7bfc07788c1a.png)
