@@ -2,6 +2,9 @@
 **aauugguussttiinn/aauugguussttiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![available](https://user-images.githubusercontent.com/82024023/137317078-b179ae0c-1dff-404e-9fac-b18a510ecd73.png)
+
+
 # Hi, I'm Augustin 👋
 I started to learn web development in 2021. I am currently looking for web developement missions as a freelance developer.
 I am skilful mainly in **Rails** and **React** but I'd be very pleased to learn any other language or framework to meet your expectations !
