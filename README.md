@@ -2,8 +2,7 @@
 **aauugguussttiinn/aauugguussttiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![available](https://user-images.githubusercontent.com/82024023/137317078-b179ae0c-1dff-404e-9fac-b18a510ecd73.png)
-
+![Binic_2019-09_pointe-du-corp-de-garde_thibault-poriel](https://user-images.githubusercontent.com/82024023/224566196-902ba9c7-f50c-4113-bcba-923f9a84829f.jpg)
 
 # Hi, I'm Augustin 👋
 I learnt web development in 2021. I am currently working as a full-stack ruby on rails developer at Mipise.
