@@ -1,8 +1,7 @@
 <!--
 **aauugguussttiinn/aauugguussttiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-![Binic_2019-09_pointe-du-corp-de-garde_thibault-poriel](https://user-images.githubusercontent.com/82024023/224566196-902ba9c7-f50c-4113-bcba-923f9a84829f.jpg)
+![Binic_2019-09_pointe-du-corp-de-garde_thibault-poriel (1)](https://user-images.githubusercontent.com/82024023/224566244-9e4aff1a-55df-4025-9760-a3e10e66efc3.jpg)
 
 # Hi, I'm Augustin 👋
 I learnt web development in 2021. I am currently working as a full-stack ruby on rails developer at Mipise.
